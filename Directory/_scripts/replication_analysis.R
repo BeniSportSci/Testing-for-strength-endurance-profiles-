@@ -13,7 +13,6 @@
 ##
 ## ---------------------------
 
-funchir::stale_package_check("_scripts/replication_analysis.R")
 
 #### Libraries ####
 library(bayestestR)
